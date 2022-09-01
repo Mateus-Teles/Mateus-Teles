@@ -34,5 +34,8 @@
 <a href="" target="_blank"><img src="">
 <a href="" target="_blank"><img src="">
 <a href="" target="_blank"><img src="">
+  
+  ![Snake animation](https://github.com/Mateus-Teles/Mateus-Teles/blob/output/github-contribuition-grid-sanke.xvg)
+  
 </div>
   
